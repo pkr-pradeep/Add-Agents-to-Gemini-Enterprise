@@ -1,0 +1,9 @@
+# Agent Platform (Formerly Vertex AI) SDK configured with Agent Engine and standard ADK templates
+google-cloud-aiplatform[agent_engines,adk] == 1.156.0
+
+#extended Python serialization (pickling) library
+cloudpickle == 3.1.2
+
+# Standalone ADK framework explicitly bringing in the A2A communication extras
+google-adk[a2a]
+
