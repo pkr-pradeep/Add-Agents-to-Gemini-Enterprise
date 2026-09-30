@@ -21,7 +21,7 @@ https://docs.cloud.google.com/gemini/enterprise/docs/register-and-manage-an-adk-
 """
 
 # 1. Replace with your OAuth Client's Client ID
-OAUTH_CLIENT_ID = "YOUR_CLIENT_ID"
+OAUTH_CLIENT_ID = "1037222259703-dr397963opkv31dq0nhbu33duqnbn4ca.apps.googleusercontent.com"
 
 # 2. Add any Google API scopes that your app needs, for example:
 SCOPES = ["https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email"]
